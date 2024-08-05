@@ -1,4 +1,4 @@
-salary_data = data.frame(read.csv('./DTS_Project/Salaries/ds_salaries.csv'))
+salary_data = data.frame(read.csv('./00_raw_data/ds_salaries.csv'))
 View(salary_data)
 
 # Wrangling of Data
@@ -298,3 +298,5 @@ importance <- tree_model$variable.importance
 importance_df <- data.frame(feature = names(importance), importance = importance)
 importance_df <- importance_df[order(-importance_df$importance),]
 print(importance_df)
+
+write.csv(salary_data, file = "salary_data.csv")
