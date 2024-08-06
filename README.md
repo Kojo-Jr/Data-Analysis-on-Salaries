@@ -1,6 +1,6 @@
 # Data-Analysis-and-Model-Prediction-on-Salaries
-The tech industry is known for its competitive salaries and rapid career progression. This report and its script file
-analyzes the relationship between salaries and experience levels in the tech sector, aiming to
+The tech industry is known for its competitive salaries and rapid career progression.
+Analyzing the relationship between salaries and experience levels in the tech sector aims to
 provide insights for both job seekers and employers.
 
 # Model Performance
