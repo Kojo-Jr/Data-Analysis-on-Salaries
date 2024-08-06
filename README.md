@@ -4,8 +4,8 @@ analyzes the relationship between salaries and experience levels in the tech sec
 provide insights for both job seekers and employers.
 
 # Model Performance
-The decision tree model achieved an accuracy of 59% on the test dataset. This result indicates that
-the model correctly predicts the experience level for nearly 6 out of 10 cases.
+The moderate accuracy indicates that the relationship between these factors and experience levels is
+not straightforward.
 
 # Credit
 Thanks to Bhuvan Chennoju for this dataset
